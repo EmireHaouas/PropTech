@@ -1,0 +1,18 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+}
+.house-card{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+    background-color: greenyellow;
+    border-radius: 10px;
+}
+.imgHouse{
+    max-width: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
