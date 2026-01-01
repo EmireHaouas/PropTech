@@ -26,7 +26,7 @@ function App() {
         const number = parseFloat(price.replace(/[^\d.]/g, ''))
         return (number * 10000 + '¥')
     }
-
+console.log(houses)
   return (
     <>
         <h1>Recherche de Maison</h1>
